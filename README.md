@@ -56,6 +56,8 @@ output sum,carry;
 assign sum= A^B^Cin;
 assign carry = (A&B)|((A^B)&Cin);
 endmodule
+```
+
 
 ### Output WAFORM:
 HALF ADDER:
