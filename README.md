@@ -59,26 +59,32 @@ endmodule
 ```
 
 
-### Output WAFORM:
+### Output Waveform:
 HALF ADDER:
+
 ![264914112-df8c47c7-743e-43ce-b9bf-b65de203e935](https://github.com/Yuva2005raj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118343998/3710d0af-23fb-497e-8e6a-c8782d691f7b)
 
 FULL ADDER:
+
 ![264914178-b6bfaa14-2e76-47dd-b18f-ee3490fa2703](https://github.com/Yuva2005raj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118343998/77012921-af23-4a8d-9bf8-9f85219cb9fb)
 
 ### RTL DIAGRAM:
 HALF ADDER:
+
 ![264914237-b140583c-4278-41d9-aeca-3c8c12143eed](https://github.com/Yuva2005raj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118343998/7b45563c-7d0c-47fe-b223-1e32c558d783)
 
 FULL ADDER:
+
 ![264914259-f1ee68dc-3f13-4034-9891-d475e263f70e](https://github.com/Yuva2005raj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118343998/e12d1eea-5a66-41eb-a90f-c82d1fbd5269)
 
 
 ### TRUTH TABLE
 HALF ADDER:
+
 ![264914855-a20b8f13-a65c-41ce-816e-960026574f46](https://github.com/Yuva2005raj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118343998/476346a3-e023-46f9-99a2-ca5771b286b8)
 
 FULL ADDER:
+
 ![264916574-60ea1f9b-1a0d-4cac-8df5-634db3638782](https://github.com/Yuva2005raj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118343998/e8258a92-32d6-4fab-8718-033d1e33b63d)
 
 
